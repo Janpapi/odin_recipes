@@ -1,0 +1,14 @@
+.la {
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#main {
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(31, 71, 31);
+    background-color: rgb(228, 228, 89);
+    font-style: italic;
+    font-family: serif;
+}
